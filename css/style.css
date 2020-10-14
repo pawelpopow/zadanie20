@@ -1,0 +1,23 @@
+/*Selektor znacznika*/
+h2{
+    color: green;
+    background-color: blue;
+}
+h3{
+    color: blue;
+    background-color: blueviolet;
+}
+/*Selektor id*/
+#main-section{
+    background-color: aqua;
+}
+/*Selektor klasy*/
+.first-paragraph{
+    color: brown;
+    background-color: red;
+}
+.second-paragraph{
+    color: palevioletred;
+    background-color: yellow;
+}
+
